@@ -1,0 +1,1 @@
+docker run --rm -p 6080:80 -v C:\Users\simon\OneDrive\Documentos\Robotica\3\RoboticaAdaptativa\volumen\Desktop:/home/ubuntu/Desktop  ubuntu-virtual-desktop
